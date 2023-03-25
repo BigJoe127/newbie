@@ -58,6 +58,7 @@ li {
 }
 .content3 {
   padding-right: 80px;
+  margin: 10px;
 }
 .div4 {
   margin: 20px;
@@ -74,13 +75,14 @@ li {
   width: 300px;
 }
 .h1 {
-  font-size: 10rem;
+  font-size: 40px;
   margin-top: 30px;
+}.h3{
+  font-size: 40px;
 }
-.h3 {
-  width: 15px;
-  height: 20px;
-}
+
+  
+
 
 @media (max-width: 450px) {
   .div1 {
@@ -104,7 +106,7 @@ li {
     padding-left: 100px;
   }
   .content1 h1 {
-    font-size: 15px;
+    font-size: 9px;
   }
   .content1 p {
     font-size: 9px;
@@ -117,7 +119,7 @@ li {
     width: 70px;
   }
   .div2 img {
-    font-size: ;
+    
   }
   .div2 h2 {
     font-size: 15px;
